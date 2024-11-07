@@ -27,12 +27,12 @@ https://ardant117.github.io/CSS/Query.html
 
 https://ardant117.github.io/CSS/studi%20kasus%20membuat%20tabel%20pricing/index.html
 
-#Belajar Bootstrap
+# Belajar Bootstrap
 
 https://ardant117.github.io/GET%20Bootstrap/index.html
 
 https://ardant117.github.io/GET%20Bootstrap/Museum/index.html
 
-#Belajar JavaScript
+# Belajar JavaScript
 
 https://ardant117.github.io/JavaScript/index.html
