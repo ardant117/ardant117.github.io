@@ -32,3 +32,5 @@ https://ardant117.github.io/CSS/studi%20kasus%20membuat%20tabel%20pricing/index.
 https://ardant117.github.io/GET%20Bootstrap/index.html
 
 https://ardant117.github.io/GET%20Bootstrap/Museum/index.html
+
+https://ardant117.github.io/JavaScript/index.html
