@@ -6,3 +6,7 @@ https://ardant117.github.io/HTML/about.html
 https://ardant117.github.io/HTML/form.html
 
 https://ardant117.github.io/HTML/table.html
+
+# Belajar CSS
+
+https://ardant117.github.io/CSS/index.html
