@@ -20,3 +20,5 @@ https://ardant117.github.io/CSS/about.html
 https://ardant117.github.io/CSS/blog.html
 
 https://ardant117.github.io/CSS/box.html
+
+https://ardant117.github.io/CSS/flex.html
