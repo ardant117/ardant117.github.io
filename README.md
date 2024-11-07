@@ -24,3 +24,5 @@ https://ardant117.github.io/CSS/box.html
 https://ardant117.github.io/CSS/flex.html
 
 https://ardant117.github.io/CSS/Query.html
+
+https://ardant117.github.io/CSS/studi%20kasus%20membuat%20tabel%20pricing/index.html
