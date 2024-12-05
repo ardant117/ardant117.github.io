@@ -40,3 +40,7 @@ https://ardant117.github.io/JavaScript/index.html
 # Belajar JavaScript OOP
 
 https://ardant117.github.io/OOP/index.html
+
+# Belajar JavaScript Asynchronous
+
+https://ardant117.github.io/JavaScript%20Asynchronous/index.html
